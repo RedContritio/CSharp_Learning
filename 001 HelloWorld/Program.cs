@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace _001_HelloWorld
+namespace HelloWorld
 {
-    class Program
+    class HelloWorld
     {
         static void Main(string[] args)
         {
+            // a C# Program
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
