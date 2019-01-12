@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _009_BinaryOperator
+namespace _018_BinaryOperator
 {
 	class Program
 	{
